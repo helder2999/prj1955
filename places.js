@@ -135,4 +135,5 @@ function renderPlaces(places) {
 
         scene.appendChild(text);
     });
+    console.log('STATICO STA FUNCIONA');
 }
