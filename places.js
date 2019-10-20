@@ -10,6 +10,7 @@ window.onload = () => {
             let places = staticLoadPlaces();
             renderPlaces(places);
         }, 3000);
+        console.log('STATICO STA FUNCIONA');
     }
 
     if (method !== 'static') {
@@ -30,6 +31,8 @@ window.onload = () => {
                 timeout: 27000,
             }
         );
+        
+        console.log('DINAMICO STA FUNCIONA');
     }
 };
 
