@@ -73,8 +73,8 @@ function staticLoadPlaces() {
         {
             name: 'Data Center Nosi',
             location: {
-                lat: 14.926235,
-                lng: -23.495920,
+                lat: 14.926239,
+                lng: -23.495863,
             }
         }
     ];
