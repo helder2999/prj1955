@@ -1,5 +1,5 @@
 window.onload = () => {
-    let method = 'static';
+    let method = 'dynamic';
 
     // if you want to statically add places, de-comment following line
     // method = 'static';
